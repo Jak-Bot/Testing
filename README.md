@@ -1,3 +1,2 @@
 # Testing
-Wir sollen GitHub ausprobieren.
-Ist das das ReadMe?
+das hier ist das neue readme, nach dem löschen von allem anderen
